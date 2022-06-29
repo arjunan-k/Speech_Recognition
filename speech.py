@@ -1,3 +1,4 @@
+# This module helps to recognize the speech and give output as text in the console.
 import speech_recognition
 import pyttsx3
 
