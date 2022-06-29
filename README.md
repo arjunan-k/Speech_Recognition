@@ -1,2 +1,4 @@
 # Speech_Recognition
-Speech recognition using python. This are the changes made to understand the working.
+A program to recognize our voice and convert it into a text.
+![DEMO](https://www.infoholicresearch.com/images/media/speech-recognition-technology1.jpg)
+
